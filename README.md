@@ -1,4 +1,4 @@
-## 🚀 Hi, I'm Abdul Mueed. A lover of technology, games, and astronomy. 🚀
+## I’m an 18-year-old Web & App Developer and freelancer from Pakistan. Currently exploring Rust & Go.
 
 I'm currently focused on being a Full Stack Developer. But as a games lover, in the future, I intend to work in the games area.
 
@@ -37,8 +37,11 @@ I'm currently focused on being a Full Stack Developer. But as a games lover, in 
 ## Social Links
 <div style="display: inline_block">
   <a href="mailto:am.abdulmueed3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-464646?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail" target="_blank" /><a/>
-  <a href="https://www.linkedin.com/betaae" target="_blank"><img src="https://img.shields.io/badge/Linkedin-025E92?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" target="_blank" /></a>
-  <a href="https://betaae.framer.ai/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-9300FF?style=for-the-badge" alt="Portfolio" target="_blank" /></a>
+  <a href="https://www.instagram.com/am_abdulmueed" target="_blank"><img src="https://img.shields.io/badge/Instagram-025E92?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" target="_blank" /></a>
+  <a href="https://wa.me/923088200384" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+    <a href="https://am-abdulmueed.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-9300FF?style=for-the-badge" alt="Portfolio" target="_blank" /></a>
 </div>
 
 ## GitHub Stats
@@ -47,11 +50,7 @@ I'm currently focused on being a Full Stack Developer. But as a games lover, in 
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=midnight-purple&show_icons=true" width="700">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunny2&theme=midnight-purple&show_icons=true" width="700">
 
-<div align="center">
-  <br>
-  <p align="center"><b>Visitors Count</b></p>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{shunny2}/count.svg" /></p>
-  <br>
+
+
 </div>
