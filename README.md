@@ -37,7 +37,7 @@ I'm currently focused on being a Full Stack Developer. But as a games lover, in 
 ## Social Links
 <div style="display: inline_block">
   <a href="mailto:am.abdulmueed3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-464646?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail" target="_blank" /><a/>
-  <a href="https://www.instagram.com/am_abdulmueed" target="_blank"><img src="https://img.shields.io/badge/Instagram-025E92?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" target="_blank" /></a>
+  <a href="https://instagram.com/a.b.d.u.l.m.u.e.e.d" target="_blank"><img src="https://img.shields.io/badge/Instagram-025E92?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" target="_blank" /></a>
   <a href="https://wa.me/923088200384" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
