@@ -1,4 +1,4 @@
-## I’m an 18-year-old Web & App Developer and freelancer from Pakistan. Currently exploring Rust & Go.
+## I’m an 19-year-old Web & App Developer and freelancer from Pakistan. Currently exploring Rust & Go.
 
 I'm currently focused on being a Full Stack Developer. But as a games lover, in the future, I intend to work in the games area.
 
